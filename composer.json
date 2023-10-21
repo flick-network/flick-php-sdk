@@ -1,0 +1,20 @@
+{
+    "name": "flick/flick-php-sdk",
+    "description": "A php wrapper for interacting with the APIs of Flick.",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Flick\\FlickPhpSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sivadas Rajan",
+            "email": "sivadasrajan@gmail.com"
+        }
+    ]
+}
