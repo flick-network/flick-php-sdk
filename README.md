@@ -17,7 +17,7 @@ A php interface for interacting with the APIs of Flick.
 To use the Flick Php SDK in your project, you can install it via composer:
 
 ```bash
-composer install flick-php-sdk
+composer require flick/flick-php-sdk
 ```
 
 ## Getting Started
