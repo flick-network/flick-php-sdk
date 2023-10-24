@@ -3,6 +3,7 @@
     "description": "A php wrapper for interacting with the APIs of Flick.",
     "type": "library",
     "require": {
+        "php": "^7.2.5 || ^8.0",
         "guzzlehttp/guzzle": "^7.8"
     },
     "license": "MIT",
