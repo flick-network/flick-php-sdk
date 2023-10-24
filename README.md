@@ -1,5 +1,6 @@
 # Flick Php SDK
-![Platform](https://img.shields.io/badge/php-8-blue)
+![Platform](https://img.shields.io/badge/php-7.2.5+-orange)
+![Platform](https://img.shields.io/badge/php-8+-blue)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE.md)
 
 
